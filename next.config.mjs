@@ -2,15 +2,16 @@
 * @type {import('next').NextConfig}
 */
 const nextConfig = {
+  reactStrictMode: true,
   images: {
     loader: 'akamai',
     path: '',
   },
-  assetPrefix: './',
-  reactStrictMode: true,
+  // assetPrefix: './',
+  
 
-  // Add basePath
-   basePath: '/jalqademy',
+  // // Add basePath
+  //  basePath: '/jalqademy',
 };
 
 export default nextConfig;
