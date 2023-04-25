@@ -7,6 +7,10 @@ const nextConfig = {
     path: '',
   },
   assetPrefix: './',
+  reactStrictMode: true,
+
+  // Add basePath
+   basePath: '/github-pages',
 };
 
 export default nextConfig;
