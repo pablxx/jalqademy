@@ -10,7 +10,7 @@ const nextConfig = {
   reactStrictMode: true,
 
   // Add basePath
-   basePath: '/github-pages',
+   basePath: '/jalqademy',
 };
 
 export default nextConfig;
