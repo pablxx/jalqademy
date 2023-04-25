@@ -9,7 +9,7 @@ const nextConfig = {
   assetPrefix: './',
 };
 
-// export default nextConfig;
+export default nextConfig;
 // // const { PHASE_DEVELOPMENT_SERVER } = require('next/constants');
 
 // module.exports = {
