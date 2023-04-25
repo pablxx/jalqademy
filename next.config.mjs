@@ -7,11 +7,12 @@ const nextConfig = {
     loader: 'akamai',
     path: '',
   },
-  // assetPrefix: './',
+  basePath: '/jalqademy',
+  assetPrefix: '/jalqademy',
   
 
-  // // Add basePath
-  //  basePath: '/jalqademy',
+  // Add basePath
+  
 };
 
 export default nextConfig;
